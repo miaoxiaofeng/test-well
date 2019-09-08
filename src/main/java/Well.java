@@ -4,6 +4,7 @@
  */
 public class Well {
     public static void main(String[] args) {
+        System.out.println("test-well02添加--------------");
         System.out.println("test-well01--------------");
         System.out.println("test-well02-------");
         System.out.println("test-well022-------");
