@@ -5,6 +5,7 @@
 public class Well {
     public static void main(String[] args) {
         System.out.println("test-well02-------");
+        System.out.println("test-well022-------");
         System.out.println("非常好-----");
     }
 }
